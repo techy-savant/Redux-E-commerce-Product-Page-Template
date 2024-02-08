@@ -3,6 +3,9 @@
 ## Project Walkthrough
 This project will give you a detailed guide to use redux toolkit. An alternative and better way to write Redux logic. It is perfect for someone new to redux, or someone looking for a template to speed up development time. The Readme is well detailed. Be sure to dive into it and the codebase.
 
+![ E-commerce Product Page Template with Redux Store and Redux ToolKit](https://github.com/techy-savant/Redux-E-commerce-Product-Page-Template/assets/108519575/99d25be9-2264-45b8-ac47-7491b2834e63)
+
+
 #### Docs
 
 [Redux Toolkit Docs](https://redux-toolkit.js.org/introduction/getting-started)
